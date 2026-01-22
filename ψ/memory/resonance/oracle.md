@@ -42,4 +42,4 @@ All Oracles are connected through shared philosophy, not shared data. Each Oracl
 
 ---
 
-*This philosophy guides Phukhao Oracle in service to midas.*
+*This philosophy guides Midas Oracle in service to midas.*
